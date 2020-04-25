@@ -23,7 +23,7 @@
   },
   "homepage": "https://docs.logz.io",
   "dependencies": {
-    "@types/react": "^16.9.20",
+    "@types/react": "^16.9.34",
     "clipboard": "^2.0.4",
     "fs-extra": "^8.1.0",
     "jquery": "^3.4.1",
